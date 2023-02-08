@@ -8,7 +8,7 @@
 
 - ⚡ Fun fact **I think I'm Funny :D**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🌍Social:</h3>
 <p align="left">
 <a href="https://fb.com/https://www.facebook.com/richard.kormoczi.5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/richard.kormoczi.5/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/kormoczi_richard/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/kormoczi_richard/" height="30" width="40" /></a>
