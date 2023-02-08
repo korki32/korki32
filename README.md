@@ -1,3 +1,4 @@
+<img src="[https://videohive.net/item/classic-computer-binary-code-01/23371150?ref=xponentialdesign&clickthrough_id=1430468054&redirect_back=true](https://media2.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif?cid=ecf05e47ywl9tqr9rie6tg7jjb76pgf1xoql16nbovhcn2ks&rid=giphy.gif&ct=g)">
 <h1 align="center">Hi 👋, I'm Körmöczi Richárd</h1>
 <h3 align="center">A passionate frontend developer from Hungary</h3>
 <p><img src="https://i.imgur.com/4M7IWwP.gif" style="width:850px" /></p>
