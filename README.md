@@ -1,4 +1,4 @@
-<img src="https://i.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.webp" style="height:100px; width:850px" >
+<img src="https://media3.giphy.com/media/12775LeUHMZjNu/giphy.gif?cid=ecf05e47n167li4i6xomw7cfgbhvyej86nxoj0fgfwm5e3a5&rid=giphy.gif&ct=g" style="height:100px; width:850px" >
 <h1 align="center">Hi 👋, I'm Körmöczi Richárd</h1>
 <h3 align="center">A passionate frontend developer from Hungary</h3>
 <p><img src="https://i.imgur.com/4M7IWwP.gif" style="width:850px" /></p>
