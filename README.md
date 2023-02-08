@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Körmöczi Richárd</h1>
 <h3 align="center">A passionate frontend developer from Hungary</h3>
-
+<p><img src="https://i.imgur.com/4M7IWwP.gif" style="width:800px" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=korki32&label=Profile%20views&color=0e75b6&style=flat" alt="korki32" /> </p>
 
 - 🤝 I’m looking for help with **The Best DiscordBOT**
