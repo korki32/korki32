@@ -1,5 +1,5 @@
 <img src="https://media3.giphy.com/media/12775LeUHMZjNu/giphy.gif?cid=ecf05e47n167li4i6xomw7cfgbhvyej86nxoj0fgfwm5e3a5&rid=giphy.gif&ct=g" style="height:200px; width:850px" >
-<h1 align="center">Hi 👋, I'm Körmöczi Richárd</h1>
+<h1 align="center">Hi 👋, I'm Richárd</h1>
 <h3 align="center">A passionate frontend developer from Hungary</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=korki32&label=Profile%20views&color=0e75b6&style=flat" alt="korki32" /> </p>
 
